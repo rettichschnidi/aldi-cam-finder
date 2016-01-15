@@ -1,0 +1,3 @@
+requests==2.9.1
+shodan==1.4.1
+simplejson==3.8.1
