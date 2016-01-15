@@ -40,24 +40,28 @@ service nor change the password. Luckily, the cameras do not forward this port u
 
 Ugly: Interesting unprotected paths
 ===================================
- * /probe_megracloud.cgi: Cloud related; identifier (?)
-> <480703318277756463148679646116>
+ * `/probe_megracloud.cgi`: Cloud related; identifier (?)
+```
+<480703318277756463148679646116>
+```
  * /get_status.cgi: Camera name, mac addresses, etc.
-> var id="006E0790B3FE";
-> var sys_ver="81.2.1.163";
-> var app_ver="3.1.5.0";
-> var eth_mac="006E09914FDE";
-> var wifi_mac="006E0890A3DF";
-> var alias="Baby";
-> var now=1452871872;
-> var timezone=-3600;
-> var dst=0;
-> var status_alarm=0;
-> var status_ddns=0;
-> var status_upnp=1;
-> var status_network=1;
-> var status_record=0;
-> var feature_sd=1;
-> var feature_hd=0;
-> var feature_record=0;
-> var feature_discovery=0;
+```
+var id="006E0790B3FE";
+var sys_ver="81.2.1.163";
+var app_ver="3.1.5.0";
+var eth_mac="006E09914FDE";
+var wifi_mac="006E0890A3DF";
+var alias="Baby";
+var now=1452871872;
+var timezone=-3600;
+var dst=0;
+var status_alarm=0;
+var status_ddns=0;
+var status_upnp=1;
+var status_network=1;
+var status_record=0;
+var feature_sd=1;
+var feature_hd=0;
+var feature_record=0;
+var feature_discovery=0;
+```
