@@ -2,13 +2,13 @@ This script searches for unprotected "security" IP cams.
 
 Supported cameras
 =================
-* Maginon IPC-100AC
-* Maginon IPC-10AC
-* Maginon IPC-1A
-* Maginon IPC-20C
-* Rollei SafetyCam-10 HD
-* Rollei SafetyCam-20 HD
-* Rollei Security Cam Mini
+* [Maginon IPC-100AC](http://ipc-info.com/#ipc-100ac)
+* [Maginon IPC-10AC](http://ipc-info.com/#ipc-10ac)
+* [Maginon IPC-1A](http://ipc-info.com/#ipc-1a)
+* [Maginon IPC-20C](http://ipc-info.com/#ipc-20c)
+* [Rollei SafetyCam-10 HD](http://www.rollei.de/produkte/foto/ueberwachungskameras/rollei-safetycam-10-hd-schwarz,p169447)
+* [Rollei SafetyCam-20 HD](http://www.rollei.de/produkte/foto/ueberwachungskameras/rollei-safetycam-20-hd-ueberwachungskamera,p169449)
+* [Rollei Security Cam Mini](http://www.rollei.de/produkte/foto/ueberwachungskameras/rollei-w-lan-ueberwachungskamera-mini-mit-steuerungs-app-schwarz,p312819)
 
 The Maginon devices are sold by ALDI and produced/labeled by [supra Foto-Elektronik-Vertriebs-GmbH](http://supra-electronics.com/). The Rolleis use pretty  much the same firmware and the hardware also is essentially (exactly!?) the same.
 
