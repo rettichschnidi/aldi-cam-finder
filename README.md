@@ -22,8 +22,8 @@ According to Shodan:
  * 2016-01-05: [9536](https://www.shodan.io/report/eJTZWpam)
  * 2016-01-15: [11754](https://www.shodan.io/report/HU5cL0Nf)
 
-Out of those, the following devices deny remote logging without set password (mcdhttpd 1.2):
- * 2016-01-15: [2012](https://www.shodan.io/search?query=mcdhttpd%2F1.2)
+Out of those, the following devices deny remote logins without set password (mcdhttpd 1.2):
+ * 2016-01-15: [2012](https://www.shodan.io/report/1Ml5dkWv)
 
 Usage
 =====
