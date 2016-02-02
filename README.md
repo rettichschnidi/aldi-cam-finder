@@ -21,9 +21,11 @@ According to Shodan:
  * 2016-01-02: [8653](https://www.shodan.io/report/EqkBgELE)
  * 2016-01-05: [9536](https://www.shodan.io/report/eJTZWpam)
  * 2016-01-15: [11754](https://www.shodan.io/report/HU5cL0Nf)
+ * 2016-02-02: [10828](https://www.shodan.io/report/2u1FPK0T)
 
 Out of those, the following devices deny remote logins without set password (mcdhttpd 1.2):
  * 2016-01-15: [2012](https://www.shodan.io/report/1Ml5dkWv)
+ * 2016-02-02: [2338](https://www.shodan.io/report/bND3MNvR)
 
 Usage
 =====
